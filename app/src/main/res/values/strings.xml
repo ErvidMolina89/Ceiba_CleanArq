@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Prueba de Ingreso</string>
+    <string name="edit_text_search">Buscar usuario</string>
+    <string name="btn_view_posts">Ver publicaciones</string>
+    <string name="btn_view_comments">Ver comentarios</string>
+    <string name="generic_message_progress">Por favor espere...</string>
+    <string name="generic_error">Ha ocurrido un error inesperado</string>
+    <string name="accept">Aceptar</string>
+    <string name="list_is_empty">List is empty</string>
+    <string name="btn_accept">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="title">Titulo</string>
+    <string name="description">Descripción del dialogo</string>
+    <string name="internet">Internet</string>
+    <string name="no_internet">No cuentas con internet, conectalo</string>
+</resources>

@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: io.reactivex:rxandroid:1.2.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e7aa584746430f055650bcb57b49aeb5/jetified-rxandroid-1.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a5300016244c8e677b0585d280a5d73f/rxandroid-1.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1c93f4f97ce52a453dc357549861b70f/rxandroid-1.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f594b770bdb41111c5551537f77fba28/jetified-rxandroid-1.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d0a7f2aeb9f5e12cbc376e50e7971608/jetified-rxandroid-1.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/24b5fffd89e4ae56251250a9b2db025a/jetified-rxandroid-1.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1d4d264533a56dd48f9d9b067bff68fe/jetified-rxandroid-1.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d1f2e22f2f160281722b25fdfbea2b18/jetified-rxandroid-1.2.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/85a8f4c8af7a68025be54fcd364902a8/rxandroid-1.2.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/85a8f4c8af7a68025be54fcd364902a8/rxandroid-1.2.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/85a8f4c8af7a68025be54fcd364902a8/rxandroid-1.2.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxandroid/1.2.1/c7c3c28e94710413fd9de24c2738a662a7ed0d1d/rxandroid-1.2.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxandroid/1.2.1/da8e4eadb096aa6264d31760e8f4623cb565e36b/rxandroid-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

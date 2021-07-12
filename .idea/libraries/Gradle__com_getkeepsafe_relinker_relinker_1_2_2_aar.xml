@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Gradle: com.getkeepsafe.relinker:relinker:1.2.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aaf626b456821af28fd8bdcc34cb45b9/jetified-relinker-1.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/05bc2c760238ac80a663bb9f76c2f3fa/relinker-1.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/cc33bc3976ee68f6b3f751360d0b2599/relinker-1.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/051b48c9b8291eb3d559c873376068e3/jetified-relinker-1.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ea808cc43b2a24d347e89c5665eb3b81/jetified-relinker-1.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e4541c32478a6b262e0455fa7c8e231c/jetified-relinker-1.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1818296e6215e8ebc0add2bea2356ca2/jetified-relinker-1.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ffb1bc9f3e929864a04cd552e7cc1608/jetified-relinker-1.2.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f09c3de67003387b82104d9f0c99b2b/relinker-1.2.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f09c3de67003387b82104d9f0c99b2b/relinker-1.2.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0f09c3de67003387b82104d9f0c99b2b/relinker-1.2.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.getkeepsafe.relinker/relinker/1.2.2/84113a661b01a453bad17a5a4cf4fd27405967cd/relinker-1.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.getkeepsafe.relinker/relinker/1.2.2/783c6bdebdf19671c4bad8a3526c70cd0aceeb9f/relinker-1.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
